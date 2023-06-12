@@ -2,7 +2,7 @@
     background-color: #383d58;
     color: white;
     display: flex;
-    justify-content: ep;
+    justify-content: space-around;
 }
 
 .cabecalho-imagem{
@@ -11,4 +11,13 @@
 .cabecalho-lista-item{
     display: flex;
     justify-content: space around;
+    padding: 18px 0;
+}
+.cabecalho-imagem{
+    width: 10%;
+}
+.cabecalho-lista-item{
+    display:flex;
+    margin: 0 20px;
+    font-size: 24px
 }
