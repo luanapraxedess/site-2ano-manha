@@ -14,7 +14,7 @@
     width:10%;
 }
 .cabecalho-lista-item{
-    display: flex;
+    display: inline-block;
     justify-content: space-around;
     margin: 0 20px;
     padding: 18px 0;
